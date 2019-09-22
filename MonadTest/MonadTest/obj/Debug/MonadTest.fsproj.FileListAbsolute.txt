@@ -1,0 +1,52 @@
+C:\Users\haibi\source\repos\MonadTest\MonadTest\bin\Debug\MonadTest.exe.config
+C:\Users\haibi\source\repos\MonadTest\MonadTest\bin\Debug\MonadTest.XML
+C:\Users\haibi\source\repos\MonadTest\MonadTest\bin\Debug\MonadTest.exe
+C:\Users\haibi\source\repos\MonadTest\MonadTest\bin\Debug\MonadTest.pdb
+C:\Users\haibi\source\repos\MonadTest\MonadTest\bin\Debug\FSharp.Core.dll
+C:\Users\haibi\source\repos\MonadTest\MonadTest\bin\Debug\System.ValueTuple.dll
+C:\Users\haibi\source\repos\MonadTest\MonadTest\bin\Debug\FSharp.Core.xml
+C:\Users\haibi\source\repos\MonadTest\MonadTest\bin\Debug\System.ValueTuple.xml
+C:\Users\haibi\source\repos\MonadTest\MonadTest\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\haibi\source\repos\MonadTest\MonadTest\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\haibi\source\repos\MonadTest\MonadTest\bin\Debug\en\FSharp.Core.resources.dll
+C:\Users\haibi\source\repos\MonadTest\MonadTest\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\haibi\source\repos\MonadTest\MonadTest\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\haibi\source\repos\MonadTest\MonadTest\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\haibi\source\repos\MonadTest\MonadTest\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\haibi\source\repos\MonadTest\MonadTest\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\haibi\source\repos\MonadTest\MonadTest\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\haibi\source\repos\MonadTest\MonadTest\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\haibi\source\repos\MonadTest\MonadTest\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\haibi\source\repos\MonadTest\MonadTest\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\haibi\source\repos\MonadTest\MonadTest\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\haibi\source\repos\MonadTest\MonadTest\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\haibi\source\repos\MonadTest\MonadTest\obj\Debug\MonadTest.fsprojAssemblyReference.cache
+C:\Users\haibi\source\repos\MonadTest\MonadTest\obj\Debug\MonadTest.fsproj.CopyComplete
+C:\Users\haibi\source\repos\MonadTest\MonadTest\obj\Debug\MonadTest.exe
+C:\Users\haibi\source\repos\MonadTest\MonadTest\obj\Debug\MonadTest.pdb
+C:\Users\haibi\Desktop\FSharp Powerpoint\Monad\MonadTest\MonadTest\bin\Debug\MonadTest.exe.config
+C:\Users\haibi\Desktop\FSharp Powerpoint\Monad\MonadTest\MonadTest\bin\Debug\MonadTest.XML
+C:\Users\haibi\Desktop\FSharp Powerpoint\Monad\MonadTest\MonadTest\bin\Debug\MonadTest.exe
+C:\Users\haibi\Desktop\FSharp Powerpoint\Monad\MonadTest\MonadTest\bin\Debug\MonadTest.pdb
+C:\Users\haibi\Desktop\FSharp Powerpoint\Monad\MonadTest\MonadTest\bin\Debug\FSharp.Core.dll
+C:\Users\haibi\Desktop\FSharp Powerpoint\Monad\MonadTest\MonadTest\bin\Debug\System.ValueTuple.dll
+C:\Users\haibi\Desktop\FSharp Powerpoint\Monad\MonadTest\MonadTest\bin\Debug\FSharp.Core.xml
+C:\Users\haibi\Desktop\FSharp Powerpoint\Monad\MonadTest\MonadTest\bin\Debug\System.ValueTuple.xml
+C:\Users\haibi\Desktop\FSharp Powerpoint\Monad\MonadTest\MonadTest\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\haibi\Desktop\FSharp Powerpoint\Monad\MonadTest\MonadTest\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\haibi\Desktop\FSharp Powerpoint\Monad\MonadTest\MonadTest\bin\Debug\en\FSharp.Core.resources.dll
+C:\Users\haibi\Desktop\FSharp Powerpoint\Monad\MonadTest\MonadTest\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\haibi\Desktop\FSharp Powerpoint\Monad\MonadTest\MonadTest\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\haibi\Desktop\FSharp Powerpoint\Monad\MonadTest\MonadTest\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\haibi\Desktop\FSharp Powerpoint\Monad\MonadTest\MonadTest\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\haibi\Desktop\FSharp Powerpoint\Monad\MonadTest\MonadTest\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\haibi\Desktop\FSharp Powerpoint\Monad\MonadTest\MonadTest\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\haibi\Desktop\FSharp Powerpoint\Monad\MonadTest\MonadTest\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\haibi\Desktop\FSharp Powerpoint\Monad\MonadTest\MonadTest\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\haibi\Desktop\FSharp Powerpoint\Monad\MonadTest\MonadTest\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\haibi\Desktop\FSharp Powerpoint\Monad\MonadTest\MonadTest\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\haibi\Desktop\FSharp Powerpoint\Monad\MonadTest\MonadTest\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\haibi\Desktop\FSharp Powerpoint\Monad\MonadTest\MonadTest\obj\Debug\MonadTest.fsprojAssemblyReference.cache
+C:\Users\haibi\Desktop\FSharp Powerpoint\Monad\MonadTest\MonadTest\obj\Debug\MonadTest.fsproj.CopyComplete
+C:\Users\haibi\Desktop\FSharp Powerpoint\Monad\MonadTest\MonadTest\obj\Debug\MonadTest.exe
+C:\Users\haibi\Desktop\FSharp Powerpoint\Monad\MonadTest\MonadTest\obj\Debug\MonadTest.pdb
